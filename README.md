@@ -3,7 +3,7 @@
 # Explanation:
 # HTML Code:
 - HTML5 structure with basic meta tags and a link to an external CSS file.
-- Contains a <div> element with the class "container" to group multiple images.
+- Contains a 'div' element with the class "container" to group multiple images.
 
 # CSS Code:
 
