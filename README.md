@@ -4,7 +4,7 @@
 # HTML Code:
 - HTML5 structure with basic meta tags and a link to an external CSS file.
 - Contains a <div> element with the class "container" to group multiple images.
-- 
+
 # CSS Code:
 
 - The universal selector (*) is used to reset margins, padding, and box-sizing for all elements.
